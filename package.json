@@ -1,0 +1,19 @@
+{
+  "name": "multiplayer-shooter",
+  "version": "1.0.0",
+  "description": "A multiplayer shooter test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndyyyYuuu/multiplayer-shooter.git"
+  },
+  "author": "Andy Yu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndyyyYuuu/multiplayer-shooter/issues"
+  },
+  "homepage": "https://github.com/AndyyyYuuu/multiplayer-shooter#readme"
+}
